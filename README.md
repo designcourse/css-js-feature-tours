@@ -9,6 +9,7 @@ Do me a big ol' favor and check out these awesome links. I release new video tut
 
 * Subscribe to the [DesignCourse YouTube Channel](http://youtube.com/designcourse)
 * Check out the associated website [Coursetro Full Stack Development Training](https://coursetro.com)
+* Chat with me and others on Discord: [DesignCourse Discord Server](https://discord.gg/a27CKAF)
 * [Twitter](https://twitter.com/designcoursecom)
 * [Facebook](https://facebook.com/coursetro)
 
