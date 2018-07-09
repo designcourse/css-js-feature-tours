@@ -1,0 +1,89 @@
+{
+  "_from": "shepherd.js",
+  "_id": "shepherd.js@2.0.0-beta.2",
+  "_inBundle": false,
+  "_integrity": "sha512-tis4bnNCtw0pe4SggRquZN3eNS333JG7Pv8MRd3zd8tlv2Gy3E7j2l1ihofu6Xe86gWFhlKyj9WOsueAUPXhZA==",
+  "_location": "/shepherd.js",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "shepherd.js",
+    "name": "shepherd.js",
+    "escapedName": "shepherd.js",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/shepherd.js/-/shepherd.js-2.0.0-beta.2.tgz",
+  "_shasum": "91ad84a796f337585a8efca157cfaccb571b878a",
+  "_spec": "shepherd.js",
+  "_where": "C:\\Users\\gary\\code\\tour",
+  "authors": [
+    "Adam Schwartz <adam.flynn.schwartz@gmail.com>",
+    "Zack Bloom <zackbloom@gmail.com>"
+  ],
+  "bugs": {
+    "url": "https://github.com/shipshapecode/shepherd/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "popper.js": "^1.14.3"
+  },
+  "deprecated": false,
+  "description": "Guide your users through a tour of your app.",
+  "devDependencies": {
+    "@babel/core": "^7.0.0-beta.51",
+    "@babel/preset-env": "^7.0.0-beta.51",
+    "del": "^3.0.0",
+    "eslint": "^5.0.1",
+    "eslint-plugin-ship-shape": "^0.6.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-babel": "^8.0.0-beta.2",
+    "gulp-bump": "^3.1.1",
+    "gulp-coffee": "^3.0.2",
+    "gulp-header": "^2.0.5",
+    "gulp-rename": "^1.3.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify-es": "^1.0.4",
+    "gulp-wrap-umd": "^0.2.1"
+  },
+  "engines": {
+    "node": ">= 6.*"
+  },
+  "homepage": "http://shipshapecode.github.io/shepherd/docs/welcome/",
+  "license": "MIT",
+  "main": "dist/js/shepherd.js",
+  "maintainers": [
+    {
+      "name": "Nicholas Hwang",
+      "email": "nick.joosung.hwang@gmail.com"
+    },
+    {
+      "name": "Geoff Daigle",
+      "email": "geoffreydaigle@gmail.com"
+    },
+    {
+      "name": "Robert Wagner",
+      "email": "rwwagner90@gmail.com"
+    }
+  ],
+  "name": "shepherd.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shipshapecode/shepherd.git"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "lint": "eslint ./src/js/shepherd.js"
+  },
+  "spm": {
+    "main": "shepherd.js"
+  },
+  "version": "2.0.0-beta.2"
+}
